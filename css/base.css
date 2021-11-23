@@ -3,19 +3,23 @@
 
 body {
     background: #F2CD5D;
+    display: grid;
 }
 
 #content {
+    grid-column-start: 2;
     margin-left: 20%;
     margin-right: 20%
 }
 
 #menu {
     position: fixed;
+    grid-column-start: 1;
     margin-left: 2rem;
 }
 
 #footer {
     position: absolute;
+    grid-row-start: 2;
 
 }
