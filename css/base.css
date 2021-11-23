@@ -8,7 +8,7 @@ body {
 
 #content {
     grid-column-start: 2;
-    margin-left: 20%;
+    margin-left: 10%;
     margin-right: 20%
 }
 
@@ -19,7 +19,9 @@ body {
 }
 
 #footer {
-    position: absolute;
+    /* position: fixed; */
     grid-row-start: 2;
+    margin-left: 2rem;
+
 
 }
