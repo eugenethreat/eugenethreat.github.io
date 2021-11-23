@@ -1,9 +1,21 @@
+/* https://coolors.co/f2cd5d-639a88-3a5683-2708a0-c1666b
+ */
+
+body {
+    background: #F2CD5D;
+}
+
 #content {
     margin-left: 20%;
     margin-right: 20%
 }
 
-#menu{
+#menu {
     position: fixed;
     margin-left: 2rem;
+}
+
+#footer {
+    position: absolute;
+
 }
